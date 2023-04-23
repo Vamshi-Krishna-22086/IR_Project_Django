@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'ratings',
     'rest_framework',
     'corsheaders', 
-    'django_filters',
+    'django_filter',
 ]
 
 REST_FRAMEWORK = {
