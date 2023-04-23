@@ -39,8 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'ratings',
     'rest_framework',
-    'corsheaders', 
-    'django_filter',
+    'corsheaders',
 ]
 
 REST_FRAMEWORK = {
