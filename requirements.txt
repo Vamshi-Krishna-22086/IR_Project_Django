@@ -2,5 +2,3 @@ Django==4.2
 djangorestframework==3.14.0
 django-cors-headers==3.14.0
 django-filter==23.1
-ratings==0.3.6
-pysqlite3
